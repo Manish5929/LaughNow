@@ -1,0 +1,2 @@
+# LaughNow
+Tokenism
